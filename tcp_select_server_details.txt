@@ -1,0 +1,7 @@
+#tcp server using select()
+
+1. client sends a string to the server using tcp.
+
+2. server serves clients using multiplexing system call select().
+
+3. server processes the string (changes the letters to uppercase) and sends back to client.
