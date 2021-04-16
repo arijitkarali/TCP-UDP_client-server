@@ -1,0 +1,7 @@
+# iterative tcp server to reverse string from client.
+
+1. client sends string.
+
+2. server serves clients iteratively.
+
+2. server reverses the string and sends back.
