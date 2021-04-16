@@ -1,0 +1,3 @@
+#udp daytime client program
+
+ client requests daytime from a public daytime server (nist.gov)
